@@ -136,7 +136,7 @@ function Home() {
                 <div className="my-20">
                     <div className="text-center h-52 bg-red-500">
                         <h1 className="text-white font-bold text-4xl py-10">
-                        Autre domaines professionnelles
+                        Autres domaines professionnelles
                         </h1>
                     </div>
 
