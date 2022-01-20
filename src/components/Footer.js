@@ -35,7 +35,7 @@ function Footer() {
 
             <div className="h-1 border-2 border-gray-50 border-dotted"></div>
 
-            <p className="text-gray-50 my-2">Isidore OUEDRAOGO Tél: 0022672042624</p>
+            <p className="text-gray-50 my-2">Isidore OUEDRAOGO Tél: 0022672042624 </p>
           </div>
         </div>
       </div>
